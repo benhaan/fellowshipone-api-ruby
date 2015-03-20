@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.summary = 'Ruby gem/plugin to interact with the FellowshipOne API (https://developer.fellowshipone.com/).'
   s.description = 'Ruby gem/plugin to interact with the FellowshipOne API (https://developer.fellowshipone.com/). Checkout the project on github for more detail.'
 
-  s.add_dependency('typhoeus', '0.6.6')
+  s.add_dependency('typhoeus', '0.7.1')
   s.add_dependency('oauth_weshays', '0.4.8.pre2')
 
 
